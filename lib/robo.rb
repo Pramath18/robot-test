@@ -6,7 +6,7 @@ class Robot
     EAST = "EAST"
     WEST = "WEST"
 
-    #commans
+    #commands
     PLACE = "PLACE"
     MOVE = "MOVE"
     LEFT = "LEFT"
